@@ -28,6 +28,7 @@
     "@electron-forge/plugin-vite": "^7.10.2",
     "@electron/fuses": "^1.8.0",
     "@types/electron-squirrel-startup": "^1.0.2",
+    "electron": "^38.3.0",
     "oxlint": "^1.23.0",
     "rollup-plugin-conditional-compilation": "^1.0.6",
     "rollup-plugin-const-enum": "^1.1.4",
